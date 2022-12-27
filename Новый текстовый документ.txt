@@ -1,0 +1,1 @@
+https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=BTC,USD&api_key=5ecd4c2281667ad793e5bfed7c420c3cc52672415d4493c80d16c7969139ee14
